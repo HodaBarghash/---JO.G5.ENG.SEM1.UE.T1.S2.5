@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_60qmXtOaClB" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_5kYLVhBe4wV" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="JO.G5.ENG.SEM1.UE.T1.S2.5_sa7_ORG">
     <organization identifier="JO.G5.ENG.SEM1.UE.T1.S2.5_sa7_ORG">
       <title>JO.G5.ENG.SEM1.UE.T1.S2.5 sa7</title>
-      <item identifier="JO.G5.ENG.SEM1.UC.T1.S2.6_SCO" isvisible="true" identifierref="__60qmXtOaClB_RES">
+      <item identifier="JO.G5.ENG.SEM1.UC.T1.S2.6_SCO" isvisible="true" identifierref="__5kYLVhBe4wV_RES">
         <title>JO.G5.ENG.SEM1.UE.T1.S2.5 sa7</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__60qmXtOaClB_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__5kYLVhBe4wV_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="story_content/video_6ljxW8K6hmu_18_160_1920x1080.mp4" />
       <file href="mobile/poster_63wPmONcQof_video_6ljxW8K6hmu_18_160_1920x1080.jpg" />
@@ -81,28 +81,10 @@
       <file href="story_content/6hWOentNuPA_44100_160_0.mp3" />
       <file href="story_content/6lfqT405drG_44100_160_0.mp3" />
       <file href="story_content/5Ztzpyd7XAf_44100_160_0.mp3" />
-      <file href="mobile/6GC9aJ5XSV4.png" />
-      <file href="mobile/5wB3MI1rRJy.png" />
-      <file href="mobile/5uMXzzIzXME.png" />
-      <file href="mobile/6DW6XGYAqiO.png" />
-      <file href="mobile/5hSxHajEcTm.png" />
-      <file href="mobile/5hmF2M4Jw6y.png" />
-      <file href="mobile/5iFGLABzmqV.png" />
-      <file href="mobile/6nzyWyGIaQC.png" />
-      <file href="story_content/6l5OisYTyH5_44100_160_0.mp3" />
-      <file href="story_content/6JDoJWEqkox_44100_160_0.mp3" />
-      <file href="mobile/5xeRbabXuK4.png" />
-      <file href="story_content/6WFyK1kzhhJ_44100_160_0.mp3" />
-      <file href="mobile/5g6v0ud4a7e.png" />
-      <file href="mobile/5ww4fn5fuah.png" />
-      <file href="story_content/6oq0b2BCB06_44100_160_0.mp3" />
-      <file href="story_content/video_5hIUpqcVlCf_18_160_1920x1080.mp4" />
-      <file href="mobile/poster_6V1O4piozgp_video_5hIUpqcVlCf_18_160_1920x1080.jpg" />
       <file href="meta.xml" />
       <file href="story_content/6EtvTkzll0j.png" />
       <file href="story_content/user.js" />
       <file href="html5/data/css/output.min.css" />
-      <file href="html5/data/js/6ibhdlZAPQU.js" />
       <file href="html5/data/js/6YmoRgDanCL.js" />
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
